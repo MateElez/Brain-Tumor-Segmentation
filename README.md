@@ -1,0 +1,1 @@
+This project aims to perform tumor segmentation on brain MRI images using the U-Net convolutional neural network architecture. The U-Net architecture is well-suited for biomedical image segmentation tasks due to its ability to capture fine details while maintaining spatial information.
